@@ -1,0 +1,60 @@
+{
+  "projects": [
+    {
+      "name": "HT-Graph: Heterogeneous Continuous-Time Dynamic Graph Representation Learning",
+      "description": "Developed a model to improve prediction performance and computational efficiency for large, dynamic, heterogeneous graphs using neighbor-aware learning, neighbor-store, and restarter modules.",
+      "image": "/ht-graph.jpg",  
+      "tags": [
+        "Python",
+        "PyTorch",
+        "PyTorch-Geometric",
+        "DGL",
+        "Graph Neural Networks",
+        "Dynamic Graphs"
+      ],
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://github.com/Nilanjana-debnath/HT-Graph",
+          "icon": "github"
+        }
+      ]
+    },
+    {
+      "name": "Human Activity Recognition on UCF-50 Dataset",
+      "description": "Developed a human activity recognition system for video data using Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks.",
+      "image": "/activity-recognition.jfif",  
+      "tags": [
+        "PyTorch",
+        "CNN",
+        "LSTM",
+        "Human Activity Recognition",
+        "Computer Vision"
+      ],
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://github.com/Nilanjana-debnath/Human-Activity-Recognition",
+          "icon": "github"
+        }
+      ]
+    },
+    {
+      "name": "Traffic Forecasting on Metropolitan LA Dataset",
+      "description": "Built a traffic forecasting model using Temporal Graph Neural Networks (TGNNs) to predict traffic speed in real-time based on spatial and temporal data.",
+      "image": "/traffic-forecast.jpg",  
+      "tags": [
+        "PyTorch",
+        "PyTorch-Geometric-Temporal",
+        "Temporal Graph Neural Networks",
+        "Traffic Forecasting"
+      ],
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://github.com/Nilanjana-debnath/Traffic-Forecasting",
+          "icon": "github"
+        }
+      ]
+    } ]
+}

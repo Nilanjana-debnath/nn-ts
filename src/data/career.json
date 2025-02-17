@@ -1,0 +1,20 @@
+{
+  "career": [
+    
+    {
+      "name": "Tata Consultancy Services",
+      "href": "https://www.tcs.com",
+      "title": "Systems Engineer",
+      "logo": "/tcs.jpg",
+      "start": "Jun 2019",
+      "end": "Jul 2021",
+      "description": [
+        "Analyzed user interaction data using Azure Log Analytics to uncover usage trends and identify performance bottlenecks.",
+        "Built interactive Azure dashboards for real-time KPI monitoring (e.g., session duration, click-through rates, crash analytics).",
+        "Collaborated with the product team to implement UI changes, resulting in a 20% increase in feature engagement.",
+        "Automated Azure VM management using PowerShell scripts and Azure Automation, reducing manual intervention by 90%.",
+        "Consolidated VM metadata from multiple CSV sources into a master list for efficient tracking and reporting."
+      ]
+    }
+  ]
+}
